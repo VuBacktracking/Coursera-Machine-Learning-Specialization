@@ -9,13 +9,14 @@ Contains Optional Labs and Solutions for Programming Assignments for the <a href
 
 ---
 ### Skill you'll gain:
-*_Python_
-*_Regression_
-*_Classification_
-*_Recommendation System_
-*_Artificial Neural Network_
-...
-And more!!!
+- _Python_
+- _Regression_
+- _Classification_
+- _Recommendation System_
+- _Artificial Neural Network_
+- _...
+And more!!!_
+
 ---
 
 ### What will you learn?
