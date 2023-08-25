@@ -6,14 +6,14 @@
 Contains Optional Labs and Solutions for Programming Assignments for the <a href = "https://www.coursera.org/specializations/machine-learning-introduction?#outcomes" target = "_blank">Machine Learning Specialization</a> by Prof. Andrew NG
 
 ### Disclaimer:
----
 
+---
 ### Skill you'll gain:
-_Python_
-_Regression_
-_Classification_
-_Recommendation System_
-_Artificial Neural Network_
+*_Python_
+*_Regression_
+*_Classification_
+*_Recommendation System_
+*_Artificial Neural Network_
 ...
 And more!!!
 ---
