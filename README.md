@@ -1,9 +1,9 @@
-## [Machine Learning Specialization](https://www.coursera.org/specializations/machine-learning-introduction?#courses)
+# [Machine Learning Specialization](https://www.coursera.org/specializations/machine-learning-introduction?#courses)
 
 <center>
   <img src="https://github.com/vhoang1206/Coursera-Machine-Learning-Specialization/blob/main/Resources/Title.png" alt="The title">
 </center>
-Contains Optional Labs and Solutions of Programming Assignment for the [Machine Learning Specialization](https://www.coursera.org/specializations/machine-learning-introduction?#courses) by Prof. Andrew NG
+Contains Optional Labs and Solutions for Programming Assignments for the <a href = "https://www.coursera.org/specializations/machine-learning-introduction?#outcomes" target = "_blank">Machine Learning Specialization</a> by Prof. Andrew NG
 
 ### Disclaimer:
 
@@ -15,7 +15,7 @@ _Recommendation System_
 _Artificial Neural Network_
 _......
 And more!!!
-### What you will learn?
+### What will you learn?
 * Build ML models with NumPy & scikit-learn, build & train supervised models for prediction & binary classification tasks (linear, logistic regression)
 * Build & train a neural network with TensorFlow to perform multi-class classification, & build & use decision trees & tree ensemble methods
 * Apply best practices for ML development & use unsupervised learning techniques for unsupervised learning including clustering & anomaly detection
