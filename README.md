@@ -3,14 +3,17 @@
 <center>
   <img src="https://github.com/vhoang1206/Coursera-Machine-Learning-Specialization/blob/main/Resources/Title.png" alt="The title">
 </center>
-Contains Optional Labs and Solutions of Programming Assignment for the [Machine Learning Specialization](https://www.coursera.org/specializations/machine-learning-introduction?#courses) Prof. Andrew NG
+Contains Optional Labs and Solutions of Programming Assignment for the [Machine Learning Specialization](https://www.coursera.org/specializations/machine-learning-introduction?#courses) by Prof. Andrew NG
 
 ### Disclaimer:
 
 ### Skill you'll gain:
-|Python|Regression|
-|Supervise Learning|Recommendation System|
-|Unsupervise Learning||Artificial Neural Network|
+_Python_
+_Regression_
+_Classification_
+_Recommendation System_
+_Artificial Neural Network_
+_......
 And more!!!
 ### What you will learn?
 * Build ML models with NumPy & scikit-learn, build & train supervised models for prediction & binary classification tasks (linear, logistic regression)
