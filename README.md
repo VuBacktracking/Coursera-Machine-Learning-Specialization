@@ -26,7 +26,6 @@ And more!!!
 By the end of this Specialization, you will be ready to:
 * Build machine learning models in Python using popular machine learning libraries NumPy and scikit-learn.
 * Build and train supervised machine learning models for prediction and binary classification tasks, including linear regression and logistic regression.
-***
 * Build and train a neural network with TensorFlow to perform multi-class classification.
 * Apply best practices for machine learning development so that your models generalize to data and tasks in the real world.
 * Build and use decision trees and tree ensemble methods, including random forests and boosted trees.
