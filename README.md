@@ -37,8 +37,8 @@ By the end of this Specialization, you will be ready to:
 * Build recommender systems with a collaborative filtering approach and a content-based deep learning method.
 * Build a deep reinforcement learning model.
 ---
-## [Outline of Machine Learning Specialization Course](https://github.com/vhoang1206/Coursera-Machine-Learning-Specialization/tree/main/Course%201%20-%20Supervised%20Machine%20Learning-%20Regression%20and%20Classification)
-### Course 1 - Supervised Machine Learning: Regression and Classification:
+## Outline of Machine Learning Specialization Course
+### [Course 1 - Supervised Machine Learning: Regression and Classification:](https://github.com/vhoang1206/Coursera-Machine-Learning-Specialization/tree/main/Course%201%20-%20Supervised%20Machine%20Learning-%20Regression%20and%20Classification)
 In the first course of the specialization, you'll:
 * Have a good understanding of the concepts of Supervised Learning, Unsupervised Learning, Regression, Classification, Clustering, Gradient Descent,...
 * Build simple machine learning models in Python using popular machine learning libraries NumPy & scikit-learn.
