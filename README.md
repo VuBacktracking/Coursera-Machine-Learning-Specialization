@@ -3,7 +3,7 @@
 <center>
   <img src="https://github.com/vhoang1206/Coursera-Machine-Learning-Specialization/blob/main/Resources/Title.png" alt="The title">
 </center>
-Contains Optional Labs and Solutions for Programming Assignments for the <a href = "https://www.coursera.org/specializations/machine-learning-introduction?#outcomes" target = "_blank">Machine Learning Specialization</a> by Prof. Andrew NG
+Contains Optional Labs and Solutions for Programming Assignments for the <a href = "https://www.coursera.org/specializations/machine-learning-introduction?#outcomes" target = "_blank">Machine Learning Specialization</a> (Updated) by Prof. Andrew NG
 
 ## Disclaimer:
 
