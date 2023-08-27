@@ -1,8 +1,8 @@
 ## Week 2 Optional Labs and Solutions for Assignment.
 
-*<a href = "https://github.com/vhoang1206/Coursera-Machine-Learning-Specialization/tree/main/Course%201%20-%20Supervised%20Machine%20Learning-%20Regression%20and%20Classification/Course%201%20-%20Week%202/Labs" target = "_blank">Optional Labs </a>
+* [Optional Labs](https://github.com/vhoang1206/Coursera-Machine-Learning-Specialization/tree/main/Course%201%20-%20Supervised%20Machine%20Learning-%20Regression%20and%20Classification/Course%201%20-%20Week%202/Labs)  
 
-*<a href = "https://github.com/vhoang1206/Coursera-Machine-Learning-Specialization/blob/main/Course%201%20-%20Supervised%20Machine%20Learning-%20Regression%20and%20Classification/Course%201%20-%20Week%202/Labs/C1_W2_Lab01_Python_Numpy_Vectorization_Soln.ipynb" target = "_blank">Numpy Vectorization</a>
+ * [Numpy Vectorization](https://github.com/vhoang1206/Coursera-Machine-Learning-Specialization/blob/main/Course%201%20-%20Supervised%20Machine%20Learning-%20Regression%20and%20Classification/Course%201%20-%20Week%202/Labs/C1_W2_Lab01_Python_Numpy_Vectorization_Soln.ipynb)  
 
 *<a href ="https://github.com/vhoang1206/Coursera-Machine-Learning-Specialization/blob/main/Course%201%20-%20Supervised%20Machine%20Learning-%20Regression%20and%20Classification/Course%201%20-%20Week%202/Labs/C1_W2_Lab02_Multiple_Variable_Soln.ipynb" target = "_blank">Multiple Variable Linear Regression</a>
  
