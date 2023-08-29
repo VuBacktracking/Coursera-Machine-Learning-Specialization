@@ -43,3 +43,8 @@ In the first course of the specialization, you'll:
 * Have a good understanding of the concepts of Supervised Learning, Unsupervised Learning, Regression, Classification, Clustering, Gradient Descent,...
 * Build simple machine learning models in Python using popular machine learning libraries NumPy & scikit-learn.
 * Build & train supervised machine learning models for prediction & binary classification tasks, including linear regression & logistic regression.
+### [Course 2 - Advanced Learning Algorithms:](https://github.com/vhoang1206/Coursera-Machine-Learning-Specialization/tree/main/Course%202%20-%20Advanced%20Learning%20Algorithms)
+In the second course of the specialization, you'll able to:
+* Build and train a neural network with TensorFlow to perform multi-class classification.
+* Apply best practices for machine learning development so that your models generalize to data and tasks in the real world.
+* Build and use decision trees and tree ensemble methods, including random forests and boosted trees.
