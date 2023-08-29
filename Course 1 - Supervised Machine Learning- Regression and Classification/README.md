@@ -22,7 +22,7 @@
      * [Linear Regression](https://github.com/vhoang1206/Coursera-Machine-Learning-Specialization/blob/main/Course%201%20-%20Supervised%20Machine%20Learning-%20Regression%20and%20Classification/Course%201%20-%20Week%202/Practice%20Labs/C1_W2_Linear_Regression.ipynb)  
 
 * [Week 3]()
-  * [Optional Labs](https://github.com/vhoang1206/Coursera-Machine-Learning-Specialization/tree/main/Course%201%20-%20Supervised%20Machine%20Learning-%20Regression%20and%20Classification/Course%201%20-%20Week%203/Labs)
+ * [Optional Labs](https://github.com/vhoang1206/Coursera-Machine-Learning-Specialization/tree/main/Course%201%20-%20Supervised%20Machine%20Learning-%20Regression%20and%20Classification/Course%201%20-%20Week%203/Labs)
    * [Classification Solution](https://github.com/vhoang1206/Coursera-Machine-Learning-Specialization/blob/main/Course%201%20-%20Supervised%20Machine%20Learning-%20Regression%20and%20Classification/Course%201%20-%20Week%203/Labs/C1_W3_Lab01_Classification_Soln.ipynb)
    * [Sigmoid Function](https://github.com/vhoang1206/Coursera-Machine-Learning-Specialization/blob/main/Course%201%20-%20Supervised%20Machine%20Learning-%20Regression%20and%20Classification/Course%201%20-%20Week%203/Labs/C1_W3_Lab02_Sigmoid_function_Soln.ipynb)
    * [Decision Boundary](https://github.com/vhoang1206/Coursera-Machine-Learning-Specialization/blob/main/Course%201%20-%20Supervised%20Machine%20Learning-%20Regression%20and%20Classification/Course%201%20-%20Week%203/Labs/C1_W3_Lab03_Decision_Boundary_Soln.ipynb)
