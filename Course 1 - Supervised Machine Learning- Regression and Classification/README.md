@@ -1,15 +1,11 @@
 ## Supervised Machine Learning: Regression and Classification
-
+---
 * [Week 1](https://github.com/vhoang1206/Coursera-Machine-Learning-Specialization/tree/main/Course%201%20-%20Supervised%20Machine%20Learning-%20Regression%20and%20Classification/Course%201%20-%20Week%201)
-
-  * <a href = "https://github.com/vhoang1206/Coursera-Machine-Learning-Specialization/tree/main/Course%201%20-%20Supervised%20Machine%20Learning-%20Regression%20and%20Classification/Course%201%20-%20Week%201" target = "_blank">Optional Labs:</a>
-  
-    * <a href = "https://github.com/vhoang1206/Coursera-Machine-Learning-Specialization/blob/main/Course%201%20-%20Supervised%20Machine%20Learning-%20Regression%20and%20Classification/Course%201%20-%20Week%201/Labs/C1_W1_Lab02_Model_Representation_Soln.ipynb" target = "_blank">Model Representation</a>
-    
-    * <a href = "https://github.com/vhoang1206/Coursera-Machine-Learning-Specialization/blob/main/Course%201%20-%20Supervised%20Machine%20Learning-%20Regression%20and%20Classification/Course%201%20-%20Week%201/Labs/C1_W1_Lab03_Cost_function_Soln.ipynb" target = "_blank">Cost Function</a>
-    
-    * <a href = "https://github.com/vhoang1206/Coursera-Machine-Learning-Specialization/blob/main/Course%201%20-%20Supervised%20Machine%20Learning-%20Regression%20and%20Classification/Course%201%20-%20Week%201/Labs/C1_W1_Lab04_Gradient_Descent_Soln.ipynb">Gradient Descent</a>
-
+  * [Optional Labs](https://github.com/vhoang1206/Coursera-Machine-Learning-Specialization/tree/main/Course%201%20-%20Supervised%20Machine%20Learning-%20Regression%20and%20Classification/Course%201%20-%20Week%201/Labs)
+    * [Model Representation](https://github.com/vhoang1206/Coursera-Machine-Learning-Specialization/blob/main/Course%201%20-%20Supervised%20Machine%20Learning-%20Regression%20and%20Classification/Course%201%20-%20Week%201/Labs/C1_W1_Lab02_Model_Representation_Soln.ipynb)
+    * [Cost Function](https://github.com/vhoang1206/Coursera-Machine-Learning-Specialization/blob/main/Course%201%20-%20Supervised%20Machine%20Learning-%20Regression%20and%20Classification/Course%201%20-%20Week%201/Labs/C1_W1_Lab03_Cost_function_Soln.ipynb)
+    * [Gradient Descent](https://github.com/vhoang1206/Coursera-Machine-Learning-Specialization/blob/main/Course%201%20-%20Supervised%20Machine%20Learning-%20Regression%20and%20Classification/Course%201%20-%20Week%201/Labs/C1_W1_Lab04_Gradient_Descent_Soln.ipynb)
+---
 * [Week 2:](https://github.com/vhoang1206/Coursera-Machine-Learning-Specialization/tree/main/Course%201%20-%20Supervised%20Machine%20Learning-%20Regression%20and%20Classification/Course%201%20-%20Week%202)
   * [Optional Labs](https://github.com/vhoang1206/Coursera-Machine-Learning-Specialization/tree/main/Course%201%20-%20Supervised%20Machine%20Learning-%20Regression%20and%20Classification/Course%201%20-%20Week%202)
     * [Numpy Vectorization](https://github.com/vhoang1206/Coursera-Machine-Learning-Specialization/blob/main/Course%201%20-%20Supervised%20Machine%20Learning-%20Regression%20and%20Classification/Course%201%20-%20Week%202/Labs/C1_W2_Lab01_Python_Numpy_Vectorization_Soln.ipynb)
@@ -20,8 +16,8 @@
     *  [Sklearn Normal Method](https://github.com/vhoang1206/Coursera-Machine-Learning-Specialization/blob/main/Course%201%20-%20Supervised%20Machine%20Learning-%20Regression%20and%20Classification/Course%201%20-%20Week%202/Labs/C1_W2_Lab06_Sklearn_Normal_Soln.ipynb)
    * [Practice Labs](https://github.com/vhoang1206/Coursera-Machine-Learning-Specialization/tree/main/Course%201%20-%20Supervised%20Machine%20Learning-%20Regression%20and%20Classification/Course%201%20-%20Week%202/Practice%20Labs)
      * [Linear Regression](https://github.com/vhoang1206/Coursera-Machine-Learning-Specialization/blob/main/Course%201%20-%20Supervised%20Machine%20Learning-%20Regression%20and%20Classification/Course%201%20-%20Week%202/Practice%20Labs/C1_W2_Linear_Regression.ipynb)  
-
-* [Week 3]()
+---
+* [Week 3](https://github.com/vhoang1206/Coursera-Machine-Learning-Specialization/tree/main/Course%201%20-%20Supervised%20Machine%20Learning-%20Regression%20and%20Classification/Course%201%20-%20Week%203)
   * [Optional Labs](https://github.com/vhoang1206/Coursera-Machine-Learning-Specialization/tree/main/Course%201%20-%20Supervised%20Machine%20Learning-%20Regression%20and%20Classification/Course%201%20-%20Week%203/Labs)
     * [Classification Solution](https://github.com/vhoang1206/Coursera-Machine-Learning-Specialization/blob/main/Course%201%20-%20Supervised%20Machine%20Learning-%20Regression%20and%20Classification/Course%201%20-%20Week%203/Labs/C1_W3_Lab01_Classification_Soln.ipynb)
     * [Sigmoid Function](https://github.com/vhoang1206/Coursera-Machine-Learning-Specialization/blob/main/Course%201%20-%20Supervised%20Machine%20Learning-%20Regression%20and%20Classification/Course%201%20-%20Week%203/Labs/C1_W3_Lab02_Sigmoid_function_Soln.ipynb)
