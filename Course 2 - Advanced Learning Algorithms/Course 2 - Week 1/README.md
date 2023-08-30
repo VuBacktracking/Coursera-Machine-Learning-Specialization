@@ -1,10 +1,7 @@
-## Week 2 Optional Labs and Solutions for Assignment.
-* [Optional Labs]()
-   * [Numpy Vectorization]()
-   * [Multiple Variable Linear Regression]()
-   * [Feature Scaling]()
-   *  [Feature Engineering and Polynomial Regression]()
-   *  [Linear Regression using Scikit-Learn]()
-   *  [Sklearn Normal Method]()
-* [Practice Labs]()
-    * [Linear Regression]() 
+## Week  Optional Labs and Solutions for Assignment.
+* [Optional Labs](https://github.com/vhoang1206/Coursera-Machine-Learning-Specialization/tree/main/Course%202%20-%20Advanced%20Learning%20Algorithms/Course%202%20-%20Week%201/Labs)
+   * [Neurons and Layers](https://github.com/vhoang1206/Coursera-Machine-Learning-Specialization/blob/main/Course%202%20-%20Advanced%20Learning%20Algorithms/Course%202%20-%20Week%201/Labs/C2_W1_Lab01_Neurons_and_Layers.ipynb)
+   * [Simple Neural Network - Coffee Roasting](https://github.com/vhoang1206/Coursera-Machine-Learning-Specialization/blob/main/Course%202%20-%20Advanced%20Learning%20Algorithms/Course%202%20-%20Week%201/Labs/C2_W1_Lab02_CoffeeRoasting_TF.ipynb)
+   * [Simple Neural Network - Coffee Roasting Using Numpy](https://github.com/vhoang1206/Coursera-Machine-Learning-Specialization/blob/main/Course%202%20-%20Advanced%20Learning%20Algorithms/Course%202%20-%20Week%201/Labs/C2_W1_Lab03_CoffeeRoasting_Numpy.ipynb)
+* [Practice Labs](https://github.com/vhoang1206/Coursera-Machine-Learning-Specialization/tree/main/Course%202%20-%20Advanced%20Learning%20Algorithms/Course%202%20-%20Week%201/Practice%20Labs)
+    * [Neural Networks for Handwritten Digit Recognition, Binary](https://github.com/vhoang1206/Coursera-Machine-Learning-Specialization/blob/main/Course%202%20-%20Advanced%20Learning%20Algorithms/Course%202%20-%20Week%201/Practice%20Labs/C2_W1_Assignment.ipynb) 
