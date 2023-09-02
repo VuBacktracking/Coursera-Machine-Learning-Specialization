@@ -20,7 +20,7 @@ And more!!!_
 ---
 
 ## What will you learn?
-The skills I just listed are not itemized.
+
 * Build ML models with NumPy & scikit-learn, build & train supervised models for prediction & binary classification tasks (linear, logistic regression)
 * Build & train a neural network with TensorFlow to perform multi-class classification, & build & use decision trees & tree ensemble methods
 * Apply best practices for ML development & use unsupervised learning techniques for unsupervised learning including clustering & anomaly detection
