@@ -48,4 +48,8 @@ In the second course of the specialization, you'll able to:
 * Build and train a neural network with TensorFlow to perform multi-class classification.
 * Apply best practices for machine learning development so that your models generalize to data and tasks in the real world.
 * Build and use decision trees and tree ensemble methods, including random forests and boosted trees.
-### [Course 3 - Unsupervised Learning, Recommenders, Reinforcement Learning]
+### [Course 3 - Unsupervised Learning, Recommenders, Reinforcement Learning](https://github.com/vhoang1206/Coursera-Machine-Learning-Specialization/tree/main/Course%203%20-%20Unsupervised%20Learning%2C%20Recommenders%2C%20Reinforcement%20Learning)
+In the last course of the specialization, you'll be able to:
+* Use unsupervised learning techniques for unsupervised learning: including clustering and anomaly detection
+* Build a deep reinforcement learning model
+* Build recommender systems with a collaborative filtering approach and a content-based deep learning method
