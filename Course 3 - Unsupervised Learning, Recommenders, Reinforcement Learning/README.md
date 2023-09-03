@@ -1,7 +1,7 @@
 ## Unsupervised Learning, Recommenders, Reinforcement Learning
 ---
-[Week 1]()
-* [K-means Clustering](https://github.com/vhoang1206/Coursera-Machine-Learning-Specialization/tree/main/Course%203%20-%20Unsupervised%20Learning%2C%20Recommenders%2C%20Reinforcement%20Learning/Course%203%20-%20Week%201/K-means%20Clustering)
-   * [K-means Clustering Practice](https://github.com/vhoang1206/Coursera-Machine-Learning-Specialization/blob/main/Course%203%20-%20Unsupervised%20Learning%2C%20Recommenders%2C%20Reinforcement%20Learning/Course%203%20-%20Week%201/K-means%20Clustering/C3_W1_KMeans_Assignment.ipynb)
-* [Anomaly Detection](https://github.com/vhoang1206/Coursera-Machine-Learning-Specialization/tree/main/Course%203%20-%20Unsupervised%20Learning%2C%20Recommenders%2C%20Reinforcement%20Learning/Course%203%20-%20Week%201/Anomaly%20Detection)
-    * [Anomaly Detection Practice](https://github.com/vhoang1206/Coursera-Machine-Learning-Specialization/blob/main/Course%203%20-%20Unsupervised%20Learning%2C%20Recommenders%2C%20Reinforcement%20Learning/Course%203%20-%20Week%201/Anomaly%20Detection/C3_W1_Anomaly_Detection.ipynb)
+* [Week 1](https://github.com/vhoang1206/Coursera-Machine-Learning-Specialization/tree/main/Course%203%20-%20Unsupervised%20Learning%2C%20Recommenders%2C%20Reinforcement%20Learning/Course%203%20-%20Week%201)
+  * [K-means Clustering](https://github.com/vhoang1206/Coursera-Machine-Learning-Specialization/tree/main/Course%203%20-%20Unsupervised%20Learning%2C%20Recommenders%2C%20Reinforcement%20Learning/Course%203%20-%20Week%201/K-means%20Clustering)
+     * [K-means Clustering Practice](https://github.com/vhoang1206/Coursera-Machine-Learning-Specialization/blob/main/Course%203%20-%20Unsupervised%20Learning%2C%20Recommenders%2C%20Reinforcement%20Learning/Course%203%20-%20Week%201/K-means%20Clustering/C3_W1_KMeans_Assignment.ipynb)
+  * [Anomaly Detection](https://github.com/vhoang1206/Coursera-Machine-Learning-Specialization/tree/main/Course%203%20-%20Unsupervised%20Learning%2C%20Recommenders%2C%20Reinforcement%20Learning/Course%203%20-%20Week%201/Anomaly%20Detection)
+      * [Anomaly Detection Practice](https://github.com/vhoang1206/Coursera-Machine-Learning-Specialization/blob/main/Course%203%20-%20Unsupervised%20Learning%2C%20Recommenders%2C%20Reinforcement%20Learning/Course%203%20-%20Week%201/Anomaly%20Detection/C3_W1_Anomaly_Detection.ipynb)
