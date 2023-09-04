@@ -1,1 +1,5 @@
-
+## Week 2 Optional Labs and Solutions for Assignment.
+* [Collaborative Filtering Recommendation System](https://github.com/vhoang1206/Coursera-Machine-Learning-Specialization/tree/main/Course%203%20-%20Unsupervised%20Learning%2C%20Recommenders%2C%20Reinforcement%20Learning/Course%203%20-%20Week%202/Collaborative%20Filtering%20RecSys)
+   * [Collaborative Filtering Recommendation System](https://github.com/vhoang1206/Coursera-Machine-Learning-Specialization/blob/main/Course%203%20-%20Unsupervised%20Learning%2C%20Recommenders%2C%20Reinforcement%20Learning/Course%203%20-%20Week%202/Collaborative%20Filtering%20RecSys/C3_W2_Collaborative_RecSys_Assignment.ipynb)
+* [Content-Based Filtering Recommendation System](https://github.com/vhoang1206/Coursera-Machine-Learning-Specialization/tree/main/Course%203%20-%20Unsupervised%20Learning%2C%20Recommenders%2C%20Reinforcement%20Learning/Course%203%20-%20Week%202/Content-Based%20Filtering%20RecSys)
+    * [Content-Based Filtering Recommendation System](https://github.com/vhoang1206/Coursera-Machine-Learning-Specialization/blob/main/Course%203%20-%20Unsupervised%20Learning%2C%20Recommenders%2C%20Reinforcement%20Learning/Course%203%20-%20Week%202/Content-Based%20Filtering%20RecSys/C3_W2_RecSysNN_Assignment.ipynb)
