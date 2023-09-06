@@ -1,1 +1,5 @@
-
+## Week 3 Optional Labs and Solutions for Assignment.
+* [State-Action Function](https://github.com/vhoang1206/Coursera-Machine-Learning-Specialization/tree/main/Course%203%20-%20Unsupervised%20Learning%2C%20Recommenders%2C%20Reinforcement%20Learning/Course%203%20-%20Week%203/State-Action%20Function)
+   * [State Action Value Function Example](https://github.com/vhoang1206/Coursera-Machine-Learning-Specialization/blob/main/Course%203%20-%20Unsupervised%20Learning%2C%20Recommenders%2C%20Reinforcement%20Learning/Course%203%20-%20Week%203/State-Action%20Function/State-action%20value%20function%20example.ipynb)
+* [Moon Lander](https://github.com/vhoang1206/Coursera-Machine-Learning-Specialization/tree/main/Course%203%20-%20Unsupervised%20Learning%2C%20Recommenders%2C%20Reinforcement%20Learning/Course%203%20-%20Week%203/Moon%20Lander%20Practice)
+    * [Deep Q-Learning - Lunar Lander](https://github.com/vhoang1206/Coursera-Machine-Learning-Specialization/blob/main/Course%203%20-%20Unsupervised%20Learning%2C%20Recommenders%2C%20Reinforcement%20Learning/Course%203%20-%20Week%203/Moon%20Lander%20Practice/C3_W3_A1_Assignment.ipynb)
