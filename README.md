@@ -5,8 +5,6 @@
 </center>
 Contains Optional Labs and Solutions for Programming Assignments for the <a href = "https://www.coursera.org/specializations/machine-learning-introduction?#outcomes" target = "_blank">Machine Learning Specialization</a> (Updated) by Prof. Andrew NG
 
-## Disclaimer:
-
 ---
 ## Skill you'll gain:
 - _Python_
