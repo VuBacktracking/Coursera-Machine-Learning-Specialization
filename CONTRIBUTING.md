@@ -1,2 +1,2 @@
-I hope this help you are well-qualified to wield the tools of machine learning, to build applications yourself, and to create things. 
-If you find it helpful, drop a star. It would be my _honor_ and _motivation_!
+I hope this helps you be well-qualified to wield machine learning tools, build applications yourself, and create things. 
+If you find it helpful, drop a star. It would be my honor and motivation.
